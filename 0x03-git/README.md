@@ -1,1 +1,1 @@
-I am now a student of ALX, and I will excel in my program.
+I am now a student of ALX, and I will excel in my program and make myself proud
